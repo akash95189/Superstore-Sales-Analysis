@@ -18,7 +18,7 @@ This project is an interactive dashboard of Superstore Sales on Microsoft Power 
 - **Loading Data**- Load the `.csv` file to POwer BI to create the KPI's and charts.
 
 
-### 7. Create Dashboard with KPI's and Charts with key parameters to solve business problems
+### 4. Create Dashboard with KPI's and Charts with key parameters to solve business problems
   - **Business Problem-Solving**-
     - Sales Percent by different Segments.
     - Sales Percent by different Region.
